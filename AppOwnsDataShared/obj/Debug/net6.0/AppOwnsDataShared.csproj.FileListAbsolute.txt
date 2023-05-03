@@ -1,0 +1,14 @@
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/bin/Debug/net6.0/AppOwnsDataShared.deps.json
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/bin/Debug/net6.0/AppOwnsDataShared.runtimeconfig.json
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/bin/Debug/net6.0/AppOwnsDataShared.dll
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/bin/Debug/net6.0/AppOwnsDataShared.pdb
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.csproj.AssemblyReference.cache
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.AssemblyInfoInputs.cache
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.AssemblyInfo.cs
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.csproj.CoreCompileInputs.cache
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.dll
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/refint/AppOwnsDataShared.dll
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.pdb
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/AppOwnsDataShared.genruntimeconfig.cache
+/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataShared/obj/Debug/net6.0/ref/AppOwnsDataShared.dll
