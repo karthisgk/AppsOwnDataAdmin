@@ -1,939 +1,943 @@
 {
   "Files": [
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/PBIX/SalesReportTemplate.pbix",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/PBIX/SalesReportTemplate.pbix",
       "PackagePath": "staticwebassets/PBIX/SalesReportTemplate.pbix"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/PBIX/SalesSummaryPaginated.rdl",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/PBIX/SalesSummaryPaginated.rdl",
       "PackagePath": "staticwebassets/PBIX/SalesSummaryPaginated.rdl"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/css/site.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/favicon.ico",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/images/loading.gif",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/images/loading.gif",
       "PackagePath": "staticwebassets/images/loading.gif"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/js/site.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/README.md",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/README.md",
       "PackagePath": "staticwebassets/lib/bootstrap/README.md"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/alert.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/alert.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/alert.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/alert.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/alert.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/alert.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/alert.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/alert.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/alert.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/button.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/button.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/button.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/button.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/button.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/button.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/button.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/button.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/button.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/carousel.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/carousel.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/carousel.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/carousel.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/carousel.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/carousel.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/carousel.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/carousel.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/carousel.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/collapse.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/collapse.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/collapse.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/collapse.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/collapse.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/collapse.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/collapse.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/collapse.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/collapse.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/dropdown.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/dropdown.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dropdown.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/dropdown.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/dropdown.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dropdown.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/dropdown.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/dropdown.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dropdown.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/index.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/index.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/index.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/index.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/index.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/index.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/modal.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/modal.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/modal.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/modal.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/modal.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/modal.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/modal.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/modal.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/modal.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/popover.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/popover.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/popover.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/popover.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/popover.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/popover.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/popover.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/popover.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/popover.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/scrollspy.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/scrollspy.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/scrollspy.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/scrollspy.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/scrollspy.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/scrollspy.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/scrollspy.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/scrollspy.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/scrollspy.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tab.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tab.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tab.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tab.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tab.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tab.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tab.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tab.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tab.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/toast.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/toast.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/toast.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/toast.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/toast.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/toast.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/toast.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/toast.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/toast.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tooltip.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tooltip.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tooltip.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tooltip.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tooltip.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tooltip.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tooltip.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/tooltip.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tooltip.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/util.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/util.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/util.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/util.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/util.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/dist/util.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/alert.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/alert.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/alert.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/alert.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/alert.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/alert.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/button.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/button.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/button.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/button.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/button.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/button.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/carousel.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/carousel.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/carousel.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/carousel.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/carousel.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/carousel.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/collapse.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/collapse.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/collapse.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/collapse.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/collapse.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/collapse.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/dropdown.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/dropdown.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/dropdown.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/dropdown.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/dropdown.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/dropdown.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/modal.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/modal.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/modal.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/modal.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/modal.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/modal.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/popover.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/popover.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/popover.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/popover.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/popover.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/popover.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/scrollspy.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/scrollspy.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/scrollspy.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/scrollspy.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/scrollspy.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/scrollspy.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tab.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tab.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/tab.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tab.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tab.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/tab.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/toast.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/toast.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/toast.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/toast.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/toast.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/toast.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tools/sanitizer.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tools/sanitizer.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/tools/sanitizer.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tools/sanitizer.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tools/sanitizer.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/tools/sanitizer.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tooltip.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tooltip.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/tooltip.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tooltip.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/tooltip.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/tooltip.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/util.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/util.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/util.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/util.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/js/src/util.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/src/util.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/package.json",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/package.json",
       "PackagePath": "staticwebassets/lib/bootstrap/package.json"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_alert.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_alert.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_alert.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_badge.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_badge.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_badge.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_breadcrumb.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_breadcrumb.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_breadcrumb.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_button-group.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_button-group.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_button-group.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_buttons.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_buttons.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_buttons.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_card.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_card.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_card.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_carousel.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_carousel.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_carousel.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_close.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_close.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_close.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_code.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_code.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_code.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_custom-forms.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_custom-forms.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_custom-forms.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_dropdown.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_dropdown.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_dropdown.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_forms.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_forms.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_forms.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_functions.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_functions.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_functions.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_grid.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_grid.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_grid.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_images.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_images.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_images.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_input-group.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_input-group.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_input-group.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_jumbotron.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_jumbotron.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_jumbotron.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_list-group.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_list-group.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_list-group.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_media.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_media.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_media.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_mixins.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_mixins.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_mixins.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_modal.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_modal.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_modal.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_nav.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_nav.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_nav.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_navbar.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_navbar.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_navbar.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_pagination.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_pagination.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_pagination.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_popover.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_popover.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_popover.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_print.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_print.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_print.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_progress.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_progress.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_progress.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_reboot.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_reboot.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_reboot.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_root.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_root.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_root.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_spinners.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_spinners.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_spinners.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_tables.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_tables.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_tables.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_toasts.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_toasts.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_toasts.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_tooltip.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_tooltip.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_tooltip.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_transitions.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_transitions.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_transitions.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_type.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_type.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_type.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_utilities.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_utilities.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_utilities.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_variables.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/_variables.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/_variables.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/bootstrap-grid.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/bootstrap-grid.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap-grid.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/bootstrap-reboot.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/bootstrap-reboot.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap-reboot.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/bootstrap.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/bootstrap.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_alert.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_alert.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_alert.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_background-variant.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_background-variant.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_background-variant.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_badge.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_badge.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_badge.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_border-radius.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_border-radius.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_border-radius.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_box-shadow.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_box-shadow.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_box-shadow.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_breakpoints.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_breakpoints.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_breakpoints.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_buttons.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_buttons.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_buttons.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_caret.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_caret.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_caret.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_clearfix.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_clearfix.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_clearfix.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_deprecate.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_deprecate.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_deprecate.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_float.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_float.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_float.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_forms.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_forms.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_forms.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_gradients.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_gradients.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_gradients.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_grid-framework.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_grid-framework.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_grid-framework.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_grid.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_grid.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_grid.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_hover.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_hover.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_hover.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_image.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_image.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_image.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_list-group.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_list-group.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_list-group.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_lists.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_lists.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_lists.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_nav-divider.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_nav-divider.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_nav-divider.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_pagination.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_pagination.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_pagination.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_reset-text.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_reset-text.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_reset-text.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_resize.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_resize.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_resize.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_screen-reader.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_screen-reader.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_screen-reader.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_size.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_size.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_size.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_table-row.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_table-row.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_table-row.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_text-emphasis.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_text-emphasis.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_text-emphasis.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_text-hide.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_text-hide.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_text-hide.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_text-truncate.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_text-truncate.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_text-truncate.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_transition.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_transition.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_transition.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_visibility.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/mixins/_visibility.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_visibility.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_align.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_align.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_align.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_background.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_background.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_background.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_borders.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_borders.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_borders.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_clearfix.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_clearfix.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_clearfix.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_display.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_display.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_display.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_embed.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_embed.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_embed.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_flex.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_flex.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_flex.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_float.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_float.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_float.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_interactions.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_interactions.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_interactions.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_overflow.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_overflow.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_overflow.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_position.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_position.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_position.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_screenreaders.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_screenreaders.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_screenreaders.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_shadows.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_shadows.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_shadows.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_sizing.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_sizing.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_sizing.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_spacing.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_spacing.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_spacing.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_stretched-link.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_stretched-link.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_stretched-link.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_text.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_text.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_text.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_visibility.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/utilities/_visibility.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_visibility.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/vendor/_rfs.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/bootstrap/scss/vendor/_rfs.scss",
       "PackagePath": "staticwebassets/lib/bootstrap/scss/vendor/_rfs.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/.npmignore",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/.npmignore",
       "PackagePath": "staticwebassets/lib/font-awesome/.npmignore"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/HELP-US-OUT.txt",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/HELP-US-OUT.txt",
       "PackagePath": "staticwebassets/lib/font-awesome/HELP-US-OUT.txt"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/README.md",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/README.md",
       "PackagePath": "staticwebassets/lib/font-awesome/README.md"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/css/font-awesome.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/css/font-awesome.css",
       "PackagePath": "staticwebassets/lib/font-awesome/css/font-awesome.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/css/font-awesome.css.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/css/font-awesome.css.map",
       "PackagePath": "staticwebassets/lib/font-awesome/css/font-awesome.css.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/css/font-awesome.min.css",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/css/font-awesome.min.css",
       "PackagePath": "staticwebassets/lib/font-awesome/css/font-awesome.min.css"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/FontAwesome.otf",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/FontAwesome.otf",
       "PackagePath": "staticwebassets/lib/font-awesome/fonts/FontAwesome.otf"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.eot",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.eot",
       "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.eot"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.svg",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.svg",
       "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.svg"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.ttf",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.woff",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.woff",
       "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.woff"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.woff2",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/animated.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/animated.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/animated.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/bordered-pulled.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/bordered-pulled.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/bordered-pulled.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/core.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/core.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/core.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/fixed-width.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/fixed-width.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/fixed-width.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/font-awesome.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/font-awesome.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/font-awesome.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/icons.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/icons.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/icons.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/larger.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/larger.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/larger.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/list.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/list.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/list.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/mixins.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/mixins.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/mixins.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/path.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/path.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/path.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/rotated-flipped.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/rotated-flipped.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/rotated-flipped.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/screen-reader.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/screen-reader.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/screen-reader.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/stacked.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/stacked.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/stacked.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/variables.less",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/less/variables.less",
       "PackagePath": "staticwebassets/lib/font-awesome/less/variables.less"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/package.json",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/package.json",
       "PackagePath": "staticwebassets/lib/font-awesome/package.json"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_animated.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_animated.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_animated.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_bordered-pulled.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_bordered-pulled.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_bordered-pulled.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_core.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_core.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_core.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_fixed-width.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_fixed-width.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_fixed-width.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_icons.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_icons.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_icons.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_larger.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_larger.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_larger.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_list.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_list.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_list.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_mixins.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_mixins.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_mixins.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_path.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_path.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_path.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_rotated-flipped.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_rotated-flipped.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_rotated-flipped.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_screen-reader.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_screen-reader.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_screen-reader.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_stacked.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_stacked.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_stacked.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_variables.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/_variables.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/_variables.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/font-awesome.scss",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/font-awesome/scss/font-awesome.scss",
       "PackagePath": "staticwebassets/lib/font-awesome/scss/font-awesome.scss"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/LICENSE.txt",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/powerbi-client/LICENSE.txt"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/README.md",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/README.md",
       "PackagePath": "staticwebassets/lib/powerbi-client/README.md"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi-client.d.ts",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi-client.d.ts",
       "PackagePath": "staticwebassets/lib/powerbi-client/dist/powerbi-client.d.ts"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi.js",
       "PackagePath": "staticwebassets/lib/powerbi-client/dist/powerbi.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi.js.map",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi.js.map",
       "PackagePath": "staticwebassets/lib/powerbi-client/dist/powerbi.js.map"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi.min.js",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/dist/powerbi.min.js",
       "PackagePath": "staticwebassets/lib/powerbi-client/dist/powerbi.min.js"
     },
     {
-      "Id": "/Users/karthicksg/Documents/zoftsolutions/App-Owns-Data-Starter-Kit-B2C/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/package.json",
+      "Id": "/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/wwwroot/lib/powerbi-client/package.json",
       "PackagePath": "staticwebassets/lib/powerbi-client/package.json"
     },
     {
