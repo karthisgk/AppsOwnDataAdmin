@@ -54,4 +54,4 @@ jobs:
           app-name: 'sgk-apps-own-data-admin'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D7213E0AADA4AC0AF4A89DDF4B6EB38 }}
-          package: ${{env.DOTNET_ROOT}}/myapp
+          package: ./myapp
