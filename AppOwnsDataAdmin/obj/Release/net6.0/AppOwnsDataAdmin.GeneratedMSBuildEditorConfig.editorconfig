@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppOwnsDataAdmin
+build_property.RootNamespace = AppOwnsDataAdmin
+build_property.ProjectDir = /Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/ActivityEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BY3Rpdml0eUV2ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/ActivityLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BY3Rpdml0eUxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/B2CUserAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CMkNVc2VyQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/B2CUserAccounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CMkNVc2VyQWNjb3VudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FZGl0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/Embed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FbWJlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/GetUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HZXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/OnboardTenant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9PbmJvYXJkVGVuYW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/Tenant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZW5hbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/Tenants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZW5hbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Home/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Vc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthicksg/Documents/practice/devops/AppsOwnDataAdmin/AppOwnsDataAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
